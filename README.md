@@ -17,3 +17,7 @@ The framework uses Support Vector Machine (SVM) model trained on extensive datas
 ### Recall - What fraction of actual positives did the model catch i.e. "How many correct items were selected?"
 ### F1 Score = Harmonic mean of precision and recall (best for imbalanced datasets)
 ### Support = Number of actual samples per class in the test set
+
+## Decision Boundary of Stable and Unstable Support Vectors
+
+![Performance Matrix](https://github.com/Inst1nct007/Advanced-ML-Frameworks-for-Analyzing-and-Enhancing-Stability-Margins-in-PID-Controlled-Systems/raw/main/assets/decision-boundary.png)
