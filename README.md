@@ -2,3 +2,9 @@
 The framework uses Support Vector Machine (SVM) model trained on extensive datasets consisting of system  responses, controller parameters, and stability outcomes to identify  critical patterns, predict system stability, and suggest optimized PID tuning parameters that enhance  stability margins while maintaining desired performance metrics.
 
 ## The class of 0 is 60% and 1 is 40%. It is imbalanced.
+## The Heatmap shows that there is no correlation between features.
+## Perfomance Metrics of the Model
+### Precision - What fraction of predicted positives are actually correct i.e. "How many selected items are correct?"
+### Recall - What fraction of actual positives did the model catch i.e. "How many correct items were selected?"
+### F1 Score = Harmonic mean of precision and recall (best for imbalanced datasets)
+### Support = Number of actual samples per class in the test set
